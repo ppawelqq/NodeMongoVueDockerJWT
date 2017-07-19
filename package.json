@@ -1,0 +1,16 @@
+{
+  "name": "nmvdj",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "ppawelqq",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "express": "^4.13.3",
+    "express-jwt": "^3.4.0",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
